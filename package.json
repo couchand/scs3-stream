@@ -1,0 +1,26 @@
+{
+  "name": "scs3-stream",
+  "version": "0.0.1",
+  "description": "streaming i/o with SCS.3d and SCS.3m devices",
+  "author": "Andrew Couch <scs3-stream@andrewcou.ch>",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/couchand/scs3-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/couchand/scs3-stream/issues"
+  },
+  "keywords": [
+    "midi",
+    "stream",
+    "dj",
+    "scs3",
+    "controller"
+  ],
+  "dependencies": {
+    "midi": "~0.9.0",
+    "readable-stream": "~1.0.27-1"
+  }
+}
